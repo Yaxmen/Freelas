@@ -1,10 +1,6 @@
 # Freelas
 
-Este repositório contém uma variedade de projetos de freelancer desenvolvidos por [Yaxmen](https://github.com/Yaxmen), incluindo códigos em Python, HTML, PowerShell e C#.
-
-## Projetos
-
-Aqui está uma breve descrição de cada projeto:
+Este repositório contém alguns códigos de projetos e freelancer que foram desenvolvidos por [Yaxmen](https://github.com/Yaxmen), incluindo códigos em Python, HTML, PowerShell e C#.
 
 ### Python
 
