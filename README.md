@@ -8,24 +8,24 @@ Aqui está uma breve descrição de cada projeto:
 
 ### Python
 
-- **Projeto 1:** [ORM]
+- **Projeto:** [ORM]
   - [[Link para códigos](https://github.com/Yaxmen/Freelas/blob/main/Python/ORM.py)]
   - [Utilizando SQLAlchemy para comunicação com FastAPI.]
 
 ### HTML
 
-- **Projeto 1:** [WEB]
+- **Projeto:** [WEB]
   - [[Link para códigos](https://github.com/Yaxmen/Freelas/blob/main/HTML/Main.html)]
   - [Projeto para apresentação academica.]
 
 ### PowerShell
 
-- **Projeto 1:** [MSO365]
+- **Projeto:** [MSO365]
   - [[Link para códigos](https://github.com/Yaxmen/Freelas/blob/main/Shell%20Script/AprovadorO365.ps1)]
   - [Projeto para automação dos processos realizados no ITSM SNOW com processamento via Ansible.]
 
 ### C#
 
-- **Projeto 1:** [FREELA]
+- **Projeto:** [FREELA]
   - [[Link para códigos](https://github.com/Yaxmen/Freelas/blob/main/C%23/GerenciaEstoqLoja.cs)]
   - [Alguns códigos em C# que criei para clientes externos.]
